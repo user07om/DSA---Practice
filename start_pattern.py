@@ -19,7 +19,10 @@ def default_way(n: int) -> None:
 
 def modified_way(n: int) -> str:
     """
-
+    
+    Param: n (int)
+    Usage: funcName(Param)
+    Returns: str
     """
     pass
 
